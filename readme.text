@@ -1,0 +1,17 @@
+1. index.js
+ - use hyper to run with node
+ - index.js will copy content from file1.text and create a new text file file2.text with the same content
+ - this node is outdated
+ - v10.1.0
+
+ 2. index.mjs
+ - same as index.js
+ - uses code which is with latest node v16+
+
+ 3. superheroes/supervillains
+ - use hyper to run with node
+ - prints random superheroes or supervillain names
+ - used npm install superheroes/supervillains to install from npm(npmjs.com)
+
+ 4. Install npm
+ - npm init
